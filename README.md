@@ -1,2 +1,2 @@
 # RiskManager
-Single WebApp Management Information System for Insurance and Risk Managers.
+Single Page WebApp Management Information System for Insurance and Risk Managers.
